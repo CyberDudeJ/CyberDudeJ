@@ -2,8 +2,8 @@
 ### Hello 👋
 I am CyberDudeJ, also known as Ydupc in many discord servers.
 ### Github Statistics
-[![Supernova's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDudeJ)]()
-![Supernova's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDudeJ)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDudeJ)]()
+![Top used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDudeJ)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
 - 🔭 I'm currently working on **qwertyNetwork**
 - ❓ I'm looking for help with **NOTHING RIGHT NOW**
@@ -13,6 +13,10 @@ I am CyberDudeJ, also known as Ydupc in many discord servers.
 - Email: REDACTTED
 # Fun Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
+# Current Projects:
+- My book,
+- Qwerty Network
+- IDDB
 
 
