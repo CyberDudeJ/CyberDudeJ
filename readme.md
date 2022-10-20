@@ -10,8 +10,7 @@ I am CyberDudeJ, also known as Ydupc in many discord servers.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
 # Current Projects:
-- My book,
-- Qwerty Network
-- IDDB
+- TTG Disord Bot
+- Other projects which I can't be bothered putting here lol
 
 
