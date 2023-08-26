@@ -3,6 +3,7 @@ Not sure what to put here but here it is! My readme.md hahahahahah
 
 #### Statistics for github?? huh lol
 ![CyberDudeJ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberDudeJ&theme=vue-dark&hide_border=true) ![CyberDudeJ's Stats](https://github-readme-stats.vercel.app/api?username=CyberDudeJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+the stats are probably really doodoo tbh
 
 #### Contact
 - **Discord:** ``@Ydupc``, formerly known as ``@Ydupc#5864``
