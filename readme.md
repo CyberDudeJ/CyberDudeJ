@@ -10,3 +10,9 @@ Not sure what to put here but here it is! My readme.md hahahahahah
 
 #### About me
 I don't mean to brag but.... I exist. (Pretty cool huh?). I'm mostly a backend developer - aka me admitting im doodoo at frontend development hehe
+
+#### Website/s
+- https://jaysalway.com
+- https://jaysalway.net
+- https://docs.partnerdb.xyz
+- and some more i cant be bothered to list lol
