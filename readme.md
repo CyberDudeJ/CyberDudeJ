@@ -20,4 +20,4 @@ I don't mean to brag but.... I exist. (Pretty cool huh?). I'm mostly a backend d
 - https://docs.partnerdb.xyz
 - and some more i cant be bothered to list lol
 
-![Badge](https://img.shields.io/badge/jaysalway.com-8A2BE2) 
+![Badge](https://img.shields.io/badge/jaysalway.com-8A2BE2) - :3 totally not a website hehe
