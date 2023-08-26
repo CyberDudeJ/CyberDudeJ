@@ -6,4 +6,7 @@ Not sure what to put here but here it is! My readme.md hahahahahah
 
 #### Contact
 - **Discord:** ``@Ydupc``, formerly known as ``@Ydupc#5864``
-- **Email:** Nah lol good luck getting ma email
+- **Email:** Nah lol good luck getting ma email.
+
+#### About me
+I don't mean to brag but.... I exist. (Pretty cool huh?). I'm mostly a backend developer - aka me admitting im doodoo at frontend development hehe
