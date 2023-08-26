@@ -1,4 +1,4 @@
-### Welcome to my profile ig
+### ![CyberDuedJ](https://img.shields.io/badge/CyberDudeJ?labelColor=8A2BE2) Welcome to my profile ig
 Not sure what to put here but here it is! My readme.md hahahahahah
 
 #### Statistics for github?? huh lol
