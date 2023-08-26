@@ -18,3 +18,4 @@ I don't mean to brag but.... I exist. (Pretty cool huh?). I'm mostly a backend d
 - and some more i cant be bothered to list lol
 
 ### Top used languages?? OoooO nice
+![Top used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDudeJ)
