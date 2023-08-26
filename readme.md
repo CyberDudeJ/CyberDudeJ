@@ -18,4 +18,4 @@ I don't mean to brag but.... I exist. (Pretty cool huh?). I'm mostly a backend d
 ![Badge](https://img.shields.io/badge/Ydupc-8A2BE2)
 
 #### Here, my statistics idk probs doodoo
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=github-dark-blue)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=&theme=github-dark-blue)](https://git.io/streak-stats)
