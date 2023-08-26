@@ -2,7 +2,7 @@
 Not sure what to put here but here it is! My readme.md hahahahahah
 
 #### Statistics for github?? huh lol
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberDudeJ)]() 
+![CyberDudeJ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDudeJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 #### Contact
 - **Discord:** ``@Ydupc``, formerly known as ``@Ydupc#5864``
