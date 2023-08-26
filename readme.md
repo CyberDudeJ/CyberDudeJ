@@ -1,4 +1,4 @@
-### ![CyberDuedJ](https://img.shields.io/badge/CyberDudeJ?labelColor=8A2BE2) Welcome to my profile ig
+### Welcome to my profile ig
 Not sure what to put here but here it is! My readme.md hahahahahah
 
 #### Statistics for github?? huh lol
@@ -20,3 +20,4 @@ I don't mean to brag but.... I exist. (Pretty cool huh?). I'm mostly a backend d
 - https://docs.partnerdb.xyz
 - and some more i cant be bothered to list lol
 
+![CyberDude](https://img.shields.io/badge/CyberDudeJ?labelColor=8A2BE2)
