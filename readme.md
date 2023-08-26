@@ -4,5 +4,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CyberDudeJ&theme=nord&hide_border=false)<br/>
 
+# ✉️ Contact
+There are several ways in which you can contact me.
+- **Email:** ``jaysalway@proton.me`` - public email address
+- **Discord:** ``@ydupc``, formerly known as ``@Ydupc#5864``
 ---
 [![](https://visitcount.itsvg.in/api?id=CyberDudeJ&icon=3&color=0)](https://visitcount.itsvg.in)
