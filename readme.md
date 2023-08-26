@@ -20,4 +20,4 @@ I don't mean to brag but.... I exist. (Pretty cool huh?). I'm mostly a backend d
 - https://docs.partnerdb.xyz
 - and some more i cant be bothered to list lol
 
-![CyberDude](https://img.shields.io/badge/CyberDudeJ?labelColor=8A2BE2)
+![Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
