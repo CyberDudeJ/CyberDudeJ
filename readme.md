@@ -16,3 +16,5 @@ I don't mean to brag but.... I exist. (Pretty cool huh?). I'm mostly a backend d
 - https://jaysalway.net
 - https://docs.partnerdb.xyz
 - and some more i cant be bothered to list lol
+
+### Top used languages?? OoooO nice
