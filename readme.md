@@ -8,6 +8,6 @@ There are several ways in which you can contact me.
 You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalway.com`` :) - I have too many
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CyberDudeJ&icon=3&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=CyberDudeJ&icon=3&color=0)](https://visitcount.itsvg.in)
 > Can I go to sleep yet? please? pleeeaaaaaaaaaaassseee!!!!
