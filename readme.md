@@ -3,7 +3,7 @@
 
 ### ✉️ Contact
 There are several ways in which you can contact me.
-- **Email:** ``jaysalway@proton.me`` - public email address
+- **Email:** ``jaysalway@protonmail.com`` - public email address
 - **Discord:** ``@ydupc``, formerly known as ``@Ydupc#5864``
 
 ### My Domain/s
