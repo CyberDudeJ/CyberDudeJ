@@ -10,4 +10,3 @@ You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalwa
 ---
 
 [![](https://visitcount.itsvg.in/api?id=CyberDudeJ&icon=3&color=0)](https://visitcount.itsvg.in)
-> Can I go to sleep yet? please? pleeeaaaaaaaaaaassseee!!!!
