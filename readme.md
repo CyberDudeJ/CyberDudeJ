@@ -9,6 +9,8 @@ There are several ways in which you can contact me.
 - **Discord:** ``@ydupc``, formerly known as ``@Ydupc#5864``
 
 ### My Domain/s
+- https://jaysalway.com
+
 ---
 [![](https://visitcount.itsvg.in/api?id=CyberDudeJ&icon=3&color=0)](https://visitcount.itsvg.in)
 Hahahahahahhahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahah
