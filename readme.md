@@ -5,6 +5,7 @@
 There are several ways in which you can contact me.
 - **Email:** ``jaysalway@protonmail.com`` - public email address
 - **Discord:** ``@ydupc``, formerly known as ``@Ydupc#5864``
+You can also use: ``jaysalway@proton.me``
 
 ### My Domain/s
 - https://jaysalway.com
