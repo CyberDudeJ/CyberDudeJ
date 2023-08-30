@@ -14,4 +14,5 @@ You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalwa
 Hmmm what else is there... Oh yeah: ``Can I go to sleep yet?`` 😐
 
 ### 📰 Recent Notes
-> Aug 2023 - How tf did I pass maths? Like no joke, how... Im a dumdum in maths HOWWWWWW!!!!!
+> 30th Aug 2023 - How tf did I pass maths? Like no joke, how... Im a dumdum in maths HOWWWWWW!!!!!
+> 30th Aug 2023 - And how tf did I even get into college lol
