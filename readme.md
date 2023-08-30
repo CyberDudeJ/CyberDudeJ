@@ -11,4 +11,4 @@ You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalwa
 - [jaysalway.com](https://jaysalway.com) - main website
 - jaysalway.net - doodoo backend stuff, fancy ik but it doesn't have a website attached to it right now.
 
-Hmmm what else is there... Oh yeah: ``Can I go to sleep yet``
+Hmmm what else is there... Oh yeah: ``Can I go to sleep yet?``
