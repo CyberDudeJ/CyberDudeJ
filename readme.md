@@ -8,7 +8,7 @@ There are several ways in which you can contact me.
 You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalway.com`` 🙂 - I have too many
 
 ### 🌐 Website/s
-- [jaysalway.com](https://jaysalway.com) - main website
-- jaysalway.net - doodoo backend stuff, fancy ik but it doesn't have a website attached to it right now.
+- 🏡 [jaysalway.com](https://jaysalway.com) - main website
+- 💾 jaysalway.net - doodoo backend stuff, fancy ik but it doesn't have a website attached to it right now.
 
 Hmmm what else is there... Oh yeah: ``Can I go to sleep yet?`` 😐
