@@ -9,4 +9,4 @@ You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalwa
 
 ### Website/s
 - [jaysalway.com](https://jaysalway.com) - main website
-- [jaysalway.net](https://jaysalway.net) - doodoo backend stuff, fancy ik but it doesn't have a website attached to it right now.
+- jaysalway.net - doodoo backend stuff, fancy ik but it doesn't have a website attached to it right now.
