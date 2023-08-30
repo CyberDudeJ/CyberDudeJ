@@ -7,7 +7,7 @@ There are several ways in which you can contact me.
 - **Discord:** ``@ydupc``, formerly known as ``@Ydupc#5864``
 You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalway.com`` 🙂 - I have too many
 
-### Website/s
+### 🌐 Website/s
 - [jaysalway.com](https://jaysalway.com) - main website
 - jaysalway.net - doodoo backend stuff, fancy ik but it doesn't have a website attached to it right now.
 
