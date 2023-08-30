@@ -8,4 +8,4 @@ There are several ways in which you can contact me.
 You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalway.com`` :) - I have too many
 
 ### Website/s
-- https://jaysalway.com
+- [jaysalway.com](https://jaysalway.com) - main website
