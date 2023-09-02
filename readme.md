@@ -11,3 +11,6 @@ You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalwa
 - 🏡 [jaysalway.com](https://jaysalway.com) - main website
 - 💾 jaysalway.net - doodoo backend stuff, fancy ik but it doesn't have a website attached to it right now.
 - I'll probably add the rest of my websites to this at some point
+
+### Projects
+- See my website for a list of my projects
