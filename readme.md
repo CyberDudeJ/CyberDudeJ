@@ -5,7 +5,7 @@
 There are several ways in which you can contact me. **Note:** Do not misuse any of the provided methods of communication or you will be blocked (email & discord) and any further messages will be bounced back.
 - **Email:** ``jaysalway@protonmail.com`` - public email address
 - **Discord:** ``@ydupc``, formerly known as ``@Ydupc#5864``
-You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalway.com`` 🙂 - Yes I know, I have too many email addresses.
+You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalway.com`` 🙂 <br>Yes I know, I have too many email addresses.
 
 ### 🌐 Website/s
 - 🏡 [jaysalway.com](https://jaysalway.com) - main website
