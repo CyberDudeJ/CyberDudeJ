@@ -13,4 +13,4 @@ You can also use: ``jaysalway@proton.me``, ``j.salway@p.me``, ``conatct@jaysalwa
 - I'll probably add the rest of my websites to this at some point
 
 ### Projects
-- See [https://jaysalway.com/projects](https://jaysalway.com/projects) for more information.
+- See [https://jaysalway.com/projects](https://jaysalway.com/projects) for more information. hehe
